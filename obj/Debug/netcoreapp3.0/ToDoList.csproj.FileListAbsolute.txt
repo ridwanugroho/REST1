@@ -1,0 +1,14 @@
+D:\Prog\CSharp\training\13_rabu_29_jan_20\JsonRestTest\ToDoList\bin\Debug\netcoreapp3.0\ToDoList.exe
+D:\Prog\CSharp\training\13_rabu_29_jan_20\JsonRestTest\ToDoList\bin\Debug\netcoreapp3.0\ToDoList.deps.json
+D:\Prog\CSharp\training\13_rabu_29_jan_20\JsonRestTest\ToDoList\bin\Debug\netcoreapp3.0\ToDoList.runtimeconfig.json
+D:\Prog\CSharp\training\13_rabu_29_jan_20\JsonRestTest\ToDoList\bin\Debug\netcoreapp3.0\ToDoList.runtimeconfig.dev.json
+D:\Prog\CSharp\training\13_rabu_29_jan_20\JsonRestTest\ToDoList\bin\Debug\netcoreapp3.0\ToDoList.dll
+D:\Prog\CSharp\training\13_rabu_29_jan_20\JsonRestTest\ToDoList\bin\Debug\netcoreapp3.0\ToDoList.pdb
+D:\Prog\CSharp\training\13_rabu_29_jan_20\JsonRestTest\ToDoList\bin\Debug\netcoreapp3.0\McMaster.Extensions.CommandLineUtils.dll
+D:\Prog\CSharp\training\13_rabu_29_jan_20\JsonRestTest\ToDoList\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+D:\Prog\CSharp\training\13_rabu_29_jan_20\JsonRestTest\ToDoList\obj\Debug\netcoreapp3.0\ToDoList.csprojAssemblyReference.cache
+D:\Prog\CSharp\training\13_rabu_29_jan_20\JsonRestTest\ToDoList\obj\Debug\netcoreapp3.0\ToDoList.AssemblyInfoInputs.cache
+D:\Prog\CSharp\training\13_rabu_29_jan_20\JsonRestTest\ToDoList\obj\Debug\netcoreapp3.0\ToDoList.AssemblyInfo.cs
+D:\Prog\CSharp\training\13_rabu_29_jan_20\JsonRestTest\ToDoList\obj\Debug\netcoreapp3.0\ToDoList.csproj.CopyComplete
+D:\Prog\CSharp\training\13_rabu_29_jan_20\JsonRestTest\ToDoList\obj\Debug\netcoreapp3.0\ToDoList.dll
+D:\Prog\CSharp\training\13_rabu_29_jan_20\JsonRestTest\ToDoList\obj\Debug\netcoreapp3.0\ToDoList.pdb
